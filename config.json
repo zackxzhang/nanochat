@@ -1,0 +1,4 @@
+{
+    "gemma": "/.param/google--gemma-v2-2b-instruct",
+    "llama": "/.param/facebook--llama-v3.2-3b-instruct"
+}
