@@ -1,4 +1,4 @@
-# nanochat
+# ![alt text](./logo.svg)
 
 [![Language](https://img.shields.io/github/languages/top/zackxzhang/nanochat)](https://github.com/zackxzhang/nanochat)
 [![License](https://img.shields.io/github/license/zackxzhang/nanochat)](https://opensource.org/licenses/BSD-3-Clause)
